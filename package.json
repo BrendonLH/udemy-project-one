@@ -1,0 +1,26 @@
+{
+  "name": "udemy-project-one",
+  "version": "1.0.0",
+  "description": "Travel Landing Page from Advanced Web Developer course (FlexBox Project)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrendonLH/udemy-project-one.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrendonLH/udemy-project-one/issues"
+  },
+  "homepage": "https://github.com/BrendonLH/udemy-project-one#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {}
+}
